@@ -1,4 +1,4 @@
-# AutoIndexingForPartitionTables
+# Auto Indexing for Partationed Tables in MSSQL
 ## Rebuild fragmented indexes for selected partitioned tables.
 
 - Currently, this MSSQL Stored Procedure will rebuild all the indexes of that particular partition of the selected partitioned table whose index fragementation level is above 20%. 
