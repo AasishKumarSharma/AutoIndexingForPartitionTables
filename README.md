@@ -5,3 +5,5 @@
 - This phenomenon can be modified by changing the alter command in the autogenerating script. 
 - Also, the fragementation level could be redefined as required.
 - Besides, it only requires a nvarchar data type of parameter. That will contain comma separated names of the partitioned tables.
+
+Find more database related stuffs in [https://sqltheories.blogspot.com](https://sqltheories.blogspot.com/2018/03/the-database-concepts-withpractical.html)
